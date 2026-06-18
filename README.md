@@ -1,11 +1,11 @@
 ````markdown
+# 👋 Hi, I'm Abhishek Goud
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=6,12,20,24&text=Abhishek%20Goud&fontSize=75&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=6,12,20,24&text=Abhishek%20Goud&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
 
-# 🚀 AI & Data Science Student
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+%26+Data+Science;Machine+Learning+Developer;Deep+Learning+Enthusiast;Computer+Vision+Explorer;Cybersecurity+Innovator;Building+AI+for+Real+World+Problems"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+%26+Data+Science+Student;Machine+Learning+Developer;Deep+Learning+Enthusiast;Computer+Vision+Explorer;Cybersecurity+Builder;Open+Source+Learner)](https://git.io/typing-svg)
 
 <br>
 
@@ -27,221 +27,144 @@
 
 <img src="https://img.shields.io/github/followers/jeripothulaabhishek?style=for-the-badge"/>
 
-<img src="https://img.shields.io/github/stars/jeripothulaabhishek?style=for-the-badge"/>
-
 </div>
 
 ---
 
 # 👨‍💻 About Me
 
-```python
-class AbhishekGoud:
+🎓 B.Tech in Artificial Intelligence & Data Science
 
-    def __init__(self):
-        self.name = "Abhishek Goud"
-        self.role = "AI & Data Science Student"
-        self.college = "ACE Engineering College"
-        self.location = "Telangana, India"
+🏫 ACE Engineering College (2023–2027)
 
-        self.interests = [
-            "Machine Learning",
-            "Deep Learning",
-            "Computer Vision",
-            "Cybersecurity",
-            "Data Science",
-            "Generative AI"
-        ]
+📍 Telangana, India
 
-        self.current_focus = [
-            "Medical Imaging",
-            "Fraud Detection",
-            "AI Applications",
-            "Open Source Projects"
-        ]
+🤖 Passionate about Artificial Intelligence, Machine Learning, Deep Learning, and Computer Vision
 
-    def goal(self):
-        return "Become a world-class AI Engineer"
+🔐 Interested in Cybersecurity and AI-powered Security Solutions
 
-me = AbhishekGoud()
-````
+🚀 Building real-world projects in Healthcare, Finance, and Security domains
+
+📚 Constantly learning and improving through projects, research, and open-source contributions
 
 ---
 
-# 🎯 Current Mission
+# 🚀 Current Focus
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
-🔭 Building AI-powered solutions
-
-🌱 Learning Deep Learning & MLOps
-
-💡 Exploring Explainable AI (XAI)
-
-⚡ Creating impactful real-world projects
-
-🎯 Preparing for AI/ML Internships
-
-📚 Improving Data Structures & Algorithms
+- 🔬 Medical Imaging & Computer Vision
+- 🤖 Machine Learning & Deep Learning
+- 🔐 Cybersecurity Applications
+- 📊 Data Science & Analytics
+- 🌐 AI-Powered Web Applications
+- ☁️ Learning MLOps & Cloud Technologies
 
 ---
 
 # 🛠️ Tech Stack
 
-## 💻 Programming Languages
+### Programming Languages
 
-<p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=python"/>
+### AI / Machine Learning
 
-<img src="https://skillicons.dev/icons?i=cpp"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=pytorch" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=java"/>
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Explainable AI (XAI)
+- Feature Engineering
+- Model Evaluation
 
-<img src="https://skillicons.dev/icons?i=javascript"/>
+### Data Science
 
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+- Pandas
+- NumPy
+- Data Analysis
+- Data Visualization
+
+### Web Development
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,typescript,html,css" />
+</p>
+
+### Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 </p>
 
 ---
 
-## 🤖 Artificial Intelligence & Machine Learning
+# 📊 GitHub Stats
 
-<p>
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=pytorch"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=jeripothulaabhishek&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://skillicons.dev/icons?i=tensorflow"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jeripothulaabhishek&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
-### Expertise
+<div align="center">
 
-* Machine Learning
-* Deep Learning
-* Computer Vision
-* Medical Imaging
-* Explainable AI (Grad-CAM)
-* Feature Engineering
-* Data Analytics
-* Model Evaluation
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeripothulaabhishek&layout=compact&theme=tokyonight&hide_border=true"/>
 
----
-
-## 🌐 Web Development
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=react"/>
-
-<img src="https://skillicons.dev/icons?i=typescript"/>
-
-<img src="https://skillicons.dev/icons?i=html"/>
-
-<img src="https://skillicons.dev/icons?i=css"/>
-
-</p>
-
----
-
-## ⚙️ Tools & Platforms
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="https://skillicons.dev/icons?i=vscode"/>
-
-<img src="https://skillicons.dev/icons?i=linux"/>
-
-</p>
+</div>
 
 ---
 
 # 🚀 Featured Projects
 
-## 🔬 Explainable 3D Liver Tumor Segmentation
+<details>
+<summary><b>🔬 Explainable 3D Liver Tumor Segmentation</b></summary>
 
-### Tech Stack
+- Built a 3D CNN pipeline for volumetric CT scan segmentation
+- Integrated Grad-CAM explainability
+- Implemented DICOM preprocessing and model evaluation
+- Evaluated performance using Dice Score and IoU metrics
 
-Python • PyTorch • 3D CNN • Medical Imaging
+</details>
 
-### Highlights
+<details>
+<summary><b>🔐 CyberShield – Phishing Detection Chrome Extension</b></summary>
 
-✅ Volumetric CT Scan Segmentation
+- Developed a browser extension for real-time phishing detection
+- Integrated security APIs for URL risk analysis
+- Designed modular UI using React and TypeScript
+- Implemented threat alerts and classification system
 
-✅ Grad-CAM Explainability
+</details>
 
-✅ Dice Score Evaluation
+<details>
+<summary><b>💳 Credit Card Fraud Detection System</b></summary>
 
-✅ IoU Metrics
+- Built fraud prediction models using Scikit-Learn
+- Handled highly imbalanced financial datasets
+- Applied feature engineering techniques
+- Optimized Precision, Recall, and F1 Score
 
-✅ DICOM Preprocessing Pipeline
-
----
-
-## 🔐 CyberShield – Phishing Detection Extension
-
-### Tech Stack
-
-React • TypeScript • Security APIs
-
-### Highlights
-
-✅ Real-Time URL Detection
-
-✅ Threat Classification
-
-✅ Browser Security Alerts
-
-✅ Modern Extension Architecture
-
----
-
-## 💳 Credit Card Fraud Detection
-
-### Tech Stack
-
-Python • Scikit-Learn • Pandas
-
-### Highlights
-
-✅ Fraud Pattern Detection
-
-✅ Imbalanced Dataset Handling
-
-✅ Feature Engineering
-
-✅ Precision, Recall, F1 Optimization
+</details>
 
 ---
 
 # 🏆 Certifications
 
-🥇 Tata Group – Data Visualisation
+🥇 Tata Group – Data Visualisation: Empowering Business with Effective Insights
 
 🥇 Infosys Springboard – Cybersecurity Essentials
 
 🥇 HubSpot – Digital Marketing Certification
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeripothulaabhishek&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeripothulaabhishek&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jeripothulaabhishek&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 ---
 
@@ -269,56 +192,38 @@ Python • Scikit-Learn • Pandas
 
 <div align="center">
 
-<img src="https://github.com/jeripothulaabhishek/jeripothulaabhishek/blob/output/github-contribution-grid-snake-dark.svg"/>
+![Snake animation](https://github.com/jeripothulaabhishek/jeripothulaabhishek/raw/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
 ---
 
-# 📚 AI / ML Roadmap
+# 🎯 2026 Goals
 
 ```yaml
 Learning:
+  - Advanced Machine Learning
   - Deep Learning
   - Computer Vision
   - MLOps
-  - AWS Cloud
-  - Generative AI
+  - Cloud Computing
 
 Building:
-  - Medical Imaging Systems
-  - AI SaaS Applications
-  - Cybersecurity Solutions
+  - AI Healthcare Systems
+  - Cybersecurity Applications
   - Open Source Projects
+  - AI Web Applications
 
 Goals:
   - AI/ML Internship
-  - Research Publication
-  - Open Source Contributor
-  - Top Product Company Placement
-```
+  - Research Projects
+  - Strong GitHub Portfolio
+  - Software Engineer Placement
+````
 
 ---
 
-# 🌟 Fun Facts
-
-```javascript
-const abhishek = {
-    code: ["Python", "JavaScript", "Java", "C++"],
-    interests: [
-        "Artificial Intelligence",
-        "Computer Vision",
-        "Cybersecurity",
-        "Data Science"
-    ],
-    challenge: "Building impactful AI products",
-    motto: "Learn. Build. Improve. Repeat."
-};
-```
-
----
-
-# 🤝 Let's Connect
+# 📫 Connect With Me
 
 <div align="center">
 
@@ -340,9 +245,9 @@ const abhishek = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=gradient&customColorList=6,12,20,24&text=Thanks%20for%20Visiting!&fontSize=45&fontColor=ffffff"/>
+### ⭐ "Learning, Building, and Growing Through AI"
 
-### ⭐ Engineering Intelligent Systems For Tomorrow
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=6,12,20,24"/>
 
 </div>
 ```
