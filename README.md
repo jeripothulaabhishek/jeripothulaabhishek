@@ -1,31 +1,28 @@
-````markdown
-# 👋 Hi, I'm Abhishek Goud
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=6,12,20,24&text=Abhishek%20Goud&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,30&text=Abhishek%20Goud&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+%26+Data+Science+Student;Machine+Learning+Developer;Deep+Learning+Enthusiast;Computer+Vision+Explorer;Cybersecurity+Builder;Open+Source+Learner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins\&weight=700\&size=24\&duration=2500\&pause=1000\&color=36BCF7\&center=true\&vCenter=true\&width=900\&lines=Artificial+Intelligence+%26+Data+Science+Student;Machine+Learning+Developer;Deep+Learning+Enthusiast;Computer+Vision+Explorer;Cybersecurity+Builder;Open+Source+Learner)](https://git.io/typing-svg)
 
 <br>
 
 <a href="https://linkedin.com/in/abhishek-goud-0b6011281">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:abhishekjeripothula@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/jeripothulaabhishek">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=jeripothulaabhishek&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
-<img src="https://img.shields.io/github/followers/jeripothulaabhishek?style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/jeripothulaabhishek?style=for-the-badge&color=blue"/>
 
 </div>
 
@@ -33,221 +30,108 @@
 
 # 👨‍💻 About Me
 
-🎓 B.Tech in Artificial Intelligence & Data Science
+🎓 **B.Tech Artificial Intelligence & Data Science**
+🏫 **ACE Engineering College (2023–2027)**
+📍 **Telangana, India**
 
-🏫 ACE Engineering College (2023–2027)
+I'm an aspiring AI Engineer passionate about building intelligent systems using Machine Learning, Deep Learning, Computer Vision, and Cybersecurity.
 
-📍 Telangana, India
-
-🤖 Passionate about Artificial Intelligence, Machine Learning, Deep Learning, and Computer Vision
-
-🔐 Interested in Cybersecurity and AI-powered Security Solutions
-
-🚀 Building real-world projects in Healthcare, Finance, and Security domains
-
-📚 Constantly learning and improving through projects, research, and open-source contributions
+I enjoy transforming ideas into real-world applications that solve practical problems in healthcare, security, and finance.
 
 ---
 
-# 🚀 Current Focus
+## 🚀 Current Focus
 
-- 🔬 Medical Imaging & Computer Vision
-- 🤖 Machine Learning & Deep Learning
-- 🔐 Cybersecurity Applications
-- 📊 Data Science & Analytics
-- 🌐 AI-Powered Web Applications
-- ☁️ Learning MLOps & Cloud Technologies
+* 🤖 Machine Learning & Deep Learning
+* 🧠 Explainable AI (XAI)
+* 🔬 Medical Imaging & Computer Vision
+* 🔐 Cybersecurity Applications
+* 📊 Data Analytics & Visualization
+* 🌐 AI-Powered Web Applications
 
 ---
 
-# 🛠️ Tech Stack
-
-### Programming Languages
+## 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript" />
-</p>
 
-### AI / Machine Learning
+<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,react,typescript,html,css,pytorch,git,github,vscode,linux" />
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=pytorch" />
-</p>
-
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Explainable AI (XAI)
-- Feature Engineering
-- Model Evaluation
-
-### Data Science
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-- Pandas
-- NumPy
-- Data Analysis
-- Data Visualization
-
-### Web Development
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,typescript,html,css" />
-</p>
-
-### Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 </p>
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=jeripothulaabhishek&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jeripothulaabhishek&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jeripothulaabhishek&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=jeripothulaabhishek&theme=tokyonight&hide_border=true"/>
 
-</div>
+</p>
 
-<div align="center">
+<p align="center">
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeripothulaabhishek&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeripothulaabhishek&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</div>
-
----
-
-# 🚀 Featured Projects
-
-<details>
-<summary><b>🔬 Explainable 3D Liver Tumor Segmentation</b></summary>
-
-- Built a 3D CNN pipeline for volumetric CT scan segmentation
-- Integrated Grad-CAM explainability
-- Implemented DICOM preprocessing and model evaluation
-- Evaluated performance using Dice Score and IoU metrics
-
-</details>
-
-<details>
-<summary><b>🔐 CyberShield – Phishing Detection Chrome Extension</b></summary>
-
-- Developed a browser extension for real-time phishing detection
-- Integrated security APIs for URL risk analysis
-- Designed modular UI using React and TypeScript
-- Implemented threat alerts and classification system
-
-</details>
-
-<details>
-<summary><b>💳 Credit Card Fraud Detection System</b></summary>
-
-- Built fraud prediction models using Scikit-Learn
-- Handled highly imbalanced financial datasets
-- Applied feature engineering techniques
-- Optimized Precision, Recall, and F1 Score
-
-</details>
+</p>
 
 ---
 
-# 🏆 Certifications
+## 🚀 Featured Projects
 
-🥇 Tata Group – Data Visualisation: Empowering Business with Effective Insights
+### 🔬 Explainable 3D Liver Tumor Segmentation
 
-🥇 Infosys Springboard – Cybersecurity Essentials
+* 3D CNN-based CT scan segmentation
+* Grad-CAM explainability integration
+* Dice Score & IoU evaluation
 
-🥇 HubSpot – Digital Marketing Certification
+### 🔐 CyberShield – Phishing Detection Extension
+
+* Real-time phishing detection
+* Security API integration
+* React + TypeScript architecture
+
+### 💳 Credit Card Fraud Detection
+
+* Fraud prediction on imbalanced datasets
+* Feature engineering and model optimization
+* Precision, Recall & F1 evaluation
 
 ---
 
-# 📈 Contribution Graph
+## 🏆 Certifications
 
-<div align="center">
+* Tata Group – Data Visualisation
+* Infosys Springboard – Cybersecurity Essentials
+* HubSpot – Digital Marketing Certification
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeripothulaabhishek&theme=tokyo-night"/>
 
-</div>
+</p>
 
 ---
 
-# 🏅 GitHub Trophies
+## 🎯 Goals for 2026
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=jeripothulaabhishek&theme=tokyonight&row=2&column=4&no-frame=true"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://github.com/jeripothulaabhishek/jeripothulaabhishek/raw/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-# 🎯 2026 Goals
-
-```yaml
-Learning:
-  - Advanced Machine Learning
-  - Deep Learning
-  - Computer Vision
-  - MLOps
-  - Cloud Computing
-
-Building:
-  - AI Healthcare Systems
-  - Cybersecurity Applications
-  - Open Source Projects
-  - AI Web Applications
-
-Goals:
-  - AI/ML Internship
-  - Research Projects
-  - Strong GitHub Portfolio
-  - Software Engineer Placement
-````
-
----
-
-# 📫 Connect With Me
-
-<div align="center">
-
-<a href="mailto:abhishekjeripothula@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://linkedin.com/in/abhishek-goud-0b6011281">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/jeripothulaabhishek">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</div>
+* AI/ML Internship
+* Open Source Contributions
+* Research Projects
+* Advanced Deep Learning
+* Computer Vision Systems
+* Strong Placement Portfolio
 
 ---
 
 <div align="center">
 
-### ⭐ "Learning, Building, and Growing Through AI"
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=6,12,20,24"/>
+### ⭐ Learning • Building • Improving
 
 </div>
-```
